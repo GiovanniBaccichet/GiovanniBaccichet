@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 -   ⚡ Efficiency freak
 -   🔭 I’m currently working on my bachelor thesis
--   🌱 My interests are mainly AI, ML, Security and Electronics
+-   🌱 My interests are mainly AI, Electronics and Security
 -   💬 Get in touch with me: [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) or giovanni@baccichet.org
 
 📊 **This week I spent my time on**
@@ -19,9 +19,9 @@ This is the place where I opensource stuff and break things :rofl:
 👨🏻‍💻 **Connect with me**
 
 <p align="left">
-<a href="https://twitter.com/giovanni_bacci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="giovanni_bacci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/giovanni-baccichet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giovannibaccichet" height="30" width="40" /></a>
-<a href="https://instagram.com/giovannibaccichet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="g.baccichet" height="30" width="40" /></a>
+<a href="https://twitter.com/Giovanni_Bacci" target="blank"><img align="center" src="imgs/twitter.png" alt="giovanni_bacci" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/giovanni-baccichet" target="blank"><img align="center" src="imgs/linkedin.png" alt="giovannibaccichet" height="40" width="40" /></a>
+<a href="https://instagram.com/g.baccichet" target="blank"><img align="center" src="imgs/instagram.png" alt="g.baccichet" height="40" width="40" /></a>
 </p>
 
 <!--
