@@ -7,13 +7,13 @@ This is the place where I opensource stuff and break things :rofl:
 -   🌱 My interests are mainly AI, Electronics and Security
 -   💬 Get in touch with me: [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) or giovanni@baccichet.org
 
-📊 **This week I spent my time on**
+📊 **My Skills**
 
 ```
-/studying  | ******************** | 30 hrs
-/creating  | *************        | 10 hrs
-  /fixing  | ********             | 12 hrs
-/designing | **                   | 3 hrs
+/python          | **************       | 70%
+/cpp             | *****************    | 80%
+/design          | *****************    | 80%
+/troubleshooting | ******************** | 100%
 ```
 
 👨🏻‍💻 **Connect with me**
