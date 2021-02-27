@@ -13,6 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 /python          | **************       | 70%
 /cpp             | *****************    | 80%
 /design          | *****************    | 80%
+/networking      | ******************   | 85%
 /troubleshooting | ******************** | 100%
 ```
 
