@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 -   ⚡ Efficiency freak
--   🔭 I’m currently working on my bachelor thesis
+-   🔭 I’m currently a Computer Science and Engineering student @PoliMi
 -   🌱 My interests are mainly AI, Electronics and Security
 -   💬 Get in touch with me: [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) or `github[at]baccichet.org`
 
