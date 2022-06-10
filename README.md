@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="imgs/hi.gif" width="25px"></a>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="imgs/hi.gif" height="25px"></a>
 
 This is the place where I opensource stuff and break things :rofl:
 
