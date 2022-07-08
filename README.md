@@ -20,9 +20,9 @@ This is the place where I opensource stuff and break things :rofl:
 👨🏻‍💻 **Connect with me**
 
 <p align="left">
-<a href="https://twitter.com/Giovanni_Bacci" target="blank"><img align="center" src="imgs/twitter.png" alt="giovanni_bacci" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/giovanni-baccichet" target="blank"><img align="center" src="imgs/linkedin.png" alt="giovannibaccichet" height="40" width="40" /></a>
-<a href="https://instagram.com/g.baccichet" target="blank"><img align="center" src="imgs/instagram.png" alt="g.baccichet" height="40" width="40" /></a>
+<a href="http://twitter.baccichet.org" target="blank"><img align="center" src="imgs/twitter.png" alt="giovanni_bacci" height="40" width="40" /></a>
+<a href="http://linkedin.baccichet.org" target="blank"><img align="center" src="imgs/linkedin.png" alt="giovannibaccichet" height="40" width="40" /></a>
+<a href="http://instagram.baccichet.org" target="blank"><img align="center" src="imgs/instagram.png" alt="g.baccichet" height="40" width="40" /></a>
 </p>
 
 <!--
