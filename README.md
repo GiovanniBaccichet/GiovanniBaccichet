@@ -17,14 +17,6 @@ This is the place where I opensource stuff and break things :rofl:
 /troubleshooting | ******************** | 100%
 ```
 
-👨🏻‍💻 **Connect with me**
-
-<p align="left">
-<a href="http://twitter.baccichet.org" target="blank"><img align="center" src="imgs/twitter.png" alt="giovanni_bacci" height="40" width="40" /></a>
-<a href="http://linkedin.baccichet.org" target="blank"><img align="center" src="imgs/linkedin.png" alt="giovannibaccichet" height="40" width="40" /></a>
-<a href="http://instagram.baccichet.org" target="blank"><img align="center" src="imgs/instagram.png" alt="g.baccichet" height="40" width="40" /></a>
-</p>
-
 <!--
 **GiovanniBaccichet/GiovanniBaccichet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
